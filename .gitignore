@@ -3,6 +3,7 @@
 *.zip
 *.tar
 *.bak
-*.spec
 *~
+*.spec
+output/
 target/
